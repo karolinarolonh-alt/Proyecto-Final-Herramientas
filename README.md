@@ -1,4 +1,4 @@
-# Proyecto final: Mortalidad no fetal en Colombia 2019
+# Proyecto final: Mortalidad en Colombia 2019
 
 ## Introducción
 
