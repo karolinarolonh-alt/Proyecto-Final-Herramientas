@@ -10,16 +10,16 @@ Analizar e interpretar los datos de mortalidad no fetal en Colombia correspondie
 
 ## Estructura del proyecto
 
-Proyecto_Final_Mortalidad_Colombia_2019_FINAL/
+Proyecto_Final
 
-├── main.py
-├── requirements.txt
-├── README.md
-├── datos/
-│   ├── NoFetal2019.xlsx
-│   ├── CodigosDeMuerte.xlsx
-│   └── Divipola.xlsx
-└── vistas/
+main.py
+requirements.txt
+README.md
+datos/
+-NoFetal2019.xlsx
+-CodigosDeMuerte.xlsx
+-Divipola.xlsx
+
 
 ## Requisitos
 
